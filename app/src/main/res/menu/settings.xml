@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Save"
+        android:id="@+id/save"/>
+    <item
+        android:title="Exit"
+        android:id="@+id/exit"/>
+    <item
+        android:title="Save and Exit"
+        android:id="@+id/saveAndExit"/>
+    <item
+        android:id="@+id/saveToGallery"
+        android:title="Save Photo to Gallery" />
+    <item
+        android:title="Retake Photo"
+        android:id="@+id/retakePhoto"/>
+    <item
+        android:id="@+id/deletePhoto"
+        android:title="Delete Photo" />
+    <item
+        android:id="@+id/copyText"
+        android:title="Copy Text" />
+</menu>

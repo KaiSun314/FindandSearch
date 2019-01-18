@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Find and Search</string>
+    <string name="title_activity_main">Photo Library</string>
+    <string name="title_activity_find_search">Find and Search</string>
+    <string name="title_activity_delete">Select Item</string>
+    <string name="title_cancel">Cancel</string>
+    <string name="title_select">Select</string>
+    <string name="title_activity_web_view">WebViewActivity</string>
+</resources>
